@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning RobotFramework using SeleniumLibrary
 - 💞️ I’m looking to collaborate on Manual tester & Automate Tester
 - 📫 How to reach me : Luxsika.thima@gmail.com
+- SQL command / API with Postman
+- Jira / Trello / Google sheets
 
 
 <!---
